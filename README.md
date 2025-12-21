@@ -36,10 +36,6 @@
 
 <hr>
 
-<h2>📌 Projects</h2>
-<p align="center">
-  <i>Coming soon...</i> 🚧
-</p>
 
 <hr>
 
