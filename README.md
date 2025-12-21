@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm <span>Eymen Öztürk</span>
+  👋 Hi, I'm <span>Ömür Eymen Öztürk</span>
 </h1>
 
 <p align="center">
@@ -45,14 +45,14 @@
         </a>
       </td>
       <td align="center" width="300">
-        🔐 <b>flask-login-admin-app</b><br><br>
+        🔐 <b>Flask Login Admin App</b><br><br>
         Flask web application with authentication system and admin panel.<br><br>
         <a href="https://github.com/EymenOzturk/flask-login-admin-app" target="_blank">
           🔗 View Repository
         </a>
       </td>
       <td align="center" width="300">
-        🧪 <b>Login-Screen-Beta</b><br><br>
+        🧪 <b>Login Screen Beta</b><br><br>
         Beta login screen project focused on UI design and authentication logic.<br><br>
         <a href="https://github.com/EymenOzturk/Login-Screen-Beta" target="_blank">
           🔗 View Repository
@@ -79,9 +79,3 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=EymenOzturk&show_icons=true&theme=tokyonight"
-  />
-</p>
