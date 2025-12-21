@@ -45,10 +45,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/U7U11QOXH2" target="_blank">
-    <img height="36"
-      src="https://storage.ko-fi.com/cdn/kofi3.png?v=6"
-      alt="Buy Me a Coffee" />
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#387cf2', 'U7U11QOXH2');kofiwidget2.draw();</script> 
   </a>
 </p>
 
