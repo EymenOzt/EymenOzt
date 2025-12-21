@@ -5,7 +5,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Python+%7C+HTML+%7C+CSS;Learning+Every+Day" 
-    alt="Typing animation" 
+    alt="Typing animation"
   />
 </p>
 
@@ -28,30 +28,57 @@
 
 <hr>
 
-<h2>📌 Projects</h2>
+<h2 align="center">📌 Projects</h2>
+
 <p align="center">
-  <i>Coming soon...</i> 🚧
+  <table>
+    <tr>
+      <td align="center" width="300">
+        🛒 <b>Grocery Store Management</b><br><br>
+        Python-based grocery store management application with GUI.<br><br>
+        <i>300+ downloads</i><br><br>
+        <a href="https://github.com/EymenOzturk/Grocery-Store-Management" target="_blank">
+          🔗 View Repository
+        </a>
+      </td>
+      <td align="center" width="300">
+        🔐 <b>flask-login-admin-app</b><br><br>
+        Flask web application with authentication system and admin panel.<br><br>
+        <a href="https://github.com/EymenOzturk/flask-login-admin-app" target="_blank">
+          🔗 View Repository
+        </a>
+      </td>
+      <td align="center" width="300">
+        🧪 <b>Login-Screen-Beta</b><br><br>
+        Beta login screen project focused on UI design and authentication logic.<br><br>
+        <a href="https://github.com/EymenOzturk/Login-Screen-Beta" target="_blank">
+          🔗 View Repository
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <hr>
 
 <h2>☕ Support Me</h2>
 <p align="center">
-  Support my development journey
+  If you like my work and want to support my journey 👇
 </p>
 
-<!-- Ko-fi Widget (NOTE: GitHub README does NOT execute scripts) -->
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-<script type='text/javascript'>
-  kofiwidget2.init('Support me on Ko-fi', '#387cf2', 'U7U11QOXH2');
-  kofiwidget2.draw();
-</script>
+<p align="center">
+  <a href="https://ko-fi.com/U7U11QOXH2" target="_blank">
+    <img height="36" style="border:0px;height:36px;"
+      src="https://storage.ko-fi.com/cdn/kofi3.png?v=6"
+      alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=EymenOzturk&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=EymenOzturk&show_icons=true&theme=tokyonight"
   />
 </p>
