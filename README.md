@@ -22,37 +22,34 @@
 <hr>
 
 <h2>🧰 Languages & Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=EymenOzturk&theme=tokyonight" 
-    alt="GitHub streak" 
-  />
-</p>
-
 <hr>
 
+<h2>📌 Projects</h2>
+<p align="center">
+  <i>Coming soon...</i> 🚧
+</p>
 
 <hr>
 
 <h2>☕ Support Me</h2>
 <p align="center">
-  If you like my work and want to support my journey
+  Support my development journey
 </p>
 
-<p align="center">
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#387cf2', 'U7U11QOXH2');kofiwidget2.draw();</script> 
-  </a>
-</p>
+<!-- Ko-fi Widget (NOTE: GitHub README does NOT execute scripts) -->
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+<script type='text/javascript'>
+  kofiwidget2.init('Support me on Ko-fi', '#387cf2', 'U7U11QOXH2');
+  kofiwidget2.draw();
+</script>
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=EymenOzturk&show_icons=true&theme=tokyonight" 
