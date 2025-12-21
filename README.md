@@ -27,7 +27,6 @@
 </p>
 
 <hr>
-
 <h2 align="center">📌 Projects</h2>
 
 <p align="center">
@@ -39,6 +38,10 @@
         <i>300+ downloads</i><br><br>
         <a href="https://github.com/EymenOzturk/Grocery-Store-Management" target="_blank">
           🔗 View Repository
+        </a>
+        <br><br>
+        <a href="https://www.mediafire.com/file/hvq19ka5liopet3/Grocery_Store_v.1.1.1.rar/file" target="_blank">
+          ⬇️ Download
         </a>
       </td>
       <td align="center" width="300">
