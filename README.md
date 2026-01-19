@@ -47,14 +47,14 @@
       <td align="center" width="300">
         🔐 <b>Flask Login Admin App</b><br><br>
         Flask web application with authentication system and admin panel.<br><br>
-        <a href="https://github.com/EymenOzturk/flask-login-admin-app" target="_blank">
+        <a href="https://github.com/EymenOzt/flask-login-admin-app" target="_blank">
           🔗 View Repository
         </a>
       </td>
       <td align="center" width="300">
         🧪 <b>Login Screen Beta</b><br><br>
         Beta login screen project focused on UI design and authentication logic.<br><br>
-        <a href="https://github.com/EymenOzturk/Login-Screen-Beta" target="_blank">
+        <a href="https://github.com/EymenOzt/Login-Screen-Beta" target="_blank">
           🔗 View Repository
         </a>
       </td>
