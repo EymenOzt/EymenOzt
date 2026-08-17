@@ -35,7 +35,7 @@
       <td align="center" width="300">
         🛒 <b>Grocery Store Management</b><br><br>
         Python-based grocery store management application with GUI.<br><br>
-        <i>500+ downloads</i><br><br>
+        <i>600+ downloads</i><br><br>
         <a href="https://github.com/EymenOzt/Grocery_Store_Management_V1.1" target="_blank">
           🔗 View Repository
         </a>
